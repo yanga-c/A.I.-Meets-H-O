@@ -2,5 +2,5 @@
 # Water Quality ML Dataset
 
 - **Columns**: `timestamp, pH, TDS (ppm), Tempertature (°C), Turbidity (NTU), label`  
-- **Labels**: `safe` (distilled/tap water), `unsafe` (puddles/contaminated water)  
+- **Labels**: `safe` (distilled/tap water), `unsafe` (melted snow/puddle water)  
 - **Samples**: 50 safe, 50 unsafe  
